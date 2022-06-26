@@ -6,7 +6,6 @@ public class Main {
 
 
     public static void main(String[] args) {
-        // write your code here
 
         int[] test = {910,100,90,320,810};
         int[][] array = new int[10][test.length];
